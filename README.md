@@ -26,7 +26,6 @@ You will be working individually for this assignment, but we'll be guiding you a
 - Style your landing page and game page with class-based CSS
 - Include a media query for a tablet to make your pages responsive
 - Use skeleton.css for your grid system
-- ???Use flexbox to ...???
 - Comment your code appropriately
 - Adhere to the [AirBnB style guide](https://github.com/airbnb/javascript) for writing your JavaScript
 - Adhere to the [Google style guide](https://google.github.io/styleguide/htmlcssguide.xml) for writing your HTML/CSS
