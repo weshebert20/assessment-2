@@ -25,7 +25,7 @@ You will be working individually for this assignment, but we'll be guiding you a
 - Choose an existing landing page on the web; screen shot the landing page, and replicate its markup to create a separate game landing page that links to your game
 - Style your landing page and game page with class-based CSS
 - Include a media query for a tablet to make your pages responsive
-- Use skeleton.css for your grid system
+- Use flexbox to build a grid system
 - Comment your code appropriately
 - Adhere to the [AirBnB style guide](https://github.com/airbnb/javascript) for writing your JavaScript
 - Adhere to the [Google style guide](https://google.github.io/styleguide/htmlcssguide.xml) for writing your HTML/CSS
@@ -53,7 +53,7 @@ There is no starter code for this project other than one blank HTML, CSS, and JS
 
 #### Deliverable
 
-You should turn in your HTML, CSS, and JavaScript files to a GitHub repository (fork or separate repo).  In your readme file, include a screenshot of the webpage you've used to build your landing page. 
+You should turn in your HTML, CSS, and JavaScript files to a GitHub repository (fork or separate repo).  In your readme file, include a screenshot of the webpage you've used to build your landing page.
 
 Here's a screenshot of what your game page could look like:
 
@@ -66,4 +66,4 @@ Here's a screenshot of what your game page could look like:
 
 #### Project Feedback + Evaluation
 
-Your work will be evalated using [this rubric](rubric.md).
+Your work will be evaluated using [this rubric](rubric.md).
