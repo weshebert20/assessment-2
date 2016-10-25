@@ -31,7 +31,7 @@ You will be working individually for this assignment, but we'll be guiding you a
 - Adhere to the [AirBnB style guide](https://github.com/airbnb/javascript) for writing your JavaScript
 - Adhere to the [Google style guide](https://google.github.io/styleguide/htmlcssguide.xml) for writing your HTML/CSS
 
-\* This does NOT mean copy-and-paste, you must work from the screen shot not the code.
+\* This does NOT mean copy-and-paste, you must work from the screen shot, not the code.
 
 **Bonus:**
 
