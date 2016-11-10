@@ -13,12 +13,12 @@ Your submission will be evaluated based on the requirements:
 | Code adheres to the [Google style guide](https://google.github.io/styleguide/htmlcssguide.xml) for writing your HTML/CSS | | | |
 | Code is commented appropriately | | | |
 | A git repository was submitted with frequent commits | | | |
-| Code meets [requirements provided](readme.md/#requirements) | | | |
+| Code meets requirements provided | | | |
 
 
 Notes:
 
-> Example: Your getting the hang of this!  Be sure to practice proper indentation and spacing.  Nice work! On line (INSERT SPECIFIC LINE NUMBER) in the (INSERT SPECIFIC FILE NAME) you (INSERT SPECIFIC CRITIQUE). Also, on line (INSERT SPECIFIC LINE NUMBER) in the (INSERT SPECIFIC FILE NAME) you (INSERT SPECIFIC CRITIQUE
+> Example: You're getting the hang of this!  Be sure to practice proper indentation and spacing.  Nice work! On line (INSERT SPECIFIC LINE NUMBER) in the (INSERT SPECIFIC FILE NAME) you (INSERT SPECIFIC CRITIQUE). Also, on line (INSERT SPECIFIC LINE NUMBER) in the (INSERT SPECIFIC FILE NAME) you (INSERT SPECIFIC CRITIQUE).
 
 ---
 
