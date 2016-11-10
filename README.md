@@ -18,7 +18,7 @@ You will be working individually for this assignment, but we'll be guiding you a
 
 ## Exercise
 
-# Requirements
+#### Requirements
 
 - Your game should have two pages: a landing page and a game page
 - Include separate HTML, CSS, JavaScript files
