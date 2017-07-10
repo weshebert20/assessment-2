@@ -28,7 +28,7 @@ You will be working individually for this assignment, but we'll be guiding you a
 - Your game page must have at least two player objects
 - Your game must have a clear win condition
 - Comment your code appropriately
-- Adhere to the [AirBnB style guide](https://github.com/airbnb/javascript) for writing your JavaScript
+- Adhere to the [AirBnB style guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5) for writing your JavaScript
 - Adhere to the [Google style guide](https://google.github.io/styleguide/htmlcssguide.xml) for writing your HTML/CSS
 
 \* This does NOT mean copy-and-paste, you must work from the screen shot, not the code.
