@@ -1,0 +1,105 @@
+/*make background image span whole page*/
+#index { 
+  background: url(images/blade-runner-city-night.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/*make background image span whole page*/
+#game { 
+  background: url(images/blade_runner1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/*put fonts in and make the filter that goes over the photos*/
+#container {
+	background-color: rgba(23, 25, 25, 0.7);
+	height: 700px;
+	font-family: 'Russo One', sans-serif;
+	margin: 0;
+}
+
+/*button that brings you into the game*/
+button {
+	padding: 20px;
+	margin-left: 43%;
+	font-family: 'Russo One', sans-serif;
+	border-radius: 5px;
+	padding: 5px 60px;
+	margin-top: 10px;
+	font-style: italic;
+}
+
+/*setting up headers*/
+h1 {
+	margin: 0 auto;
+	text-align: center;
+	font-size: 80px;
+	padding-top: 20%;
+	color: white;
+	font-style: italic;
+	text-shadow: 5px 5px 14px rgba(0, 0, 0, 1);
+}
+
+h2 {
+	margin: 0 auto;
+	display: inline-block;
+	text-align: center;
+	font-size: 60px;
+	padding-top: 20%;
+	color: white;
+	font-style: italic;
+	text-shadow: 5px 5px 14px rgba(0, 0, 0, 1);
+}
+
+.gameHeader {
+	margin: 0 auto;
+	font-size: 80px;
+	padding-top: 2%;
+	padding-left: 20px;
+	color: white;
+	font-style: italic;
+	text-shadow: 5px 5px 14px rgba(0, 0, 0, 1);
+}
+
+/*placing the images near the left side and making them smaller*/
+#playerOne{
+	width: 170px;
+	height:170px;
+	margin-top: 7%;
+	display: inline-block;
+	position: absolute;
+	margin-left: 20px;
+}
+
+#playerTwo{
+	width: 170px;
+	height:170px;
+	margin-top: 25%;
+	display: inline-block;
+	position: absolute;
+	margin-left: 20px;
+}
+
+#playerOneMove {
+	width: 500px;
+}
+
+/*putting directions next to the game name*/
+.playOne {
+	color: white;
+	display: inline-block;
+	margin-left: 3%;
+	font-style: italic;
+}
+
+.playTwo {
+	color: white;
+	display: inline-block;
+	margin-left: 3%;
+	font-style: italic;
+}
+
