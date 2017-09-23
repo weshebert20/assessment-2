@@ -1,3 +1,4 @@
+
 /*make background image span whole page*/
 #index { 
   background: url(images/blade-runner-city-night.png) no-repeat center center fixed; 
@@ -17,7 +18,7 @@
 /*put fonts in and make the filter that goes over the photos*/
 #container {
 	background-color: rgba(23, 25, 25, 0.7);
-	height: 700px;
+	height: 800px;
 	font-family: 'Russo One', sans-serif;
 	margin: 0;
 }
@@ -84,10 +85,6 @@ h2 {
 	margin-left: 20px;
 }
 
-#playerOneMove {
-	width: 500px;
-}
-
 /*putting directions next to the game name*/
 .playOne {
 	color: white;
@@ -102,4 +99,15 @@ h2 {
 	margin-left: 3%;
 	font-style: italic;
 }
+
+
+
+
+
+
+
+
+
+
+
 

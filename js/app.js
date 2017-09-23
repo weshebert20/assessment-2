@@ -1,38 +1,30 @@
 $( document).ready(function() {
 
-	let keyPressOne = [];
-	let keyPressTwo = [];
-
-
-// have my image move when i hit the keydown
+// have my image move when i hit the keydown for player one
     var playerOne = $("html").keydown(function(evt){   	
     	if(evt.which == 80){
-            $("#playerOne").animate({left: "+=10"},100);   
+            $("#playerOne").animate({left: "+=40"},100);   
         } 
+// declare winner by setting a position and alert player 1 won
+        if($("#playerOne").position().left > 1100){
+            alert("Player One Winner");
+        }
+    });
 
-   	// Attempt to declare a winner on keypress
-
-        $(playerOne).keypress(function(){
-        	if(keyPressOne == 10){
-        		console.log('PLAYER ONE WON!');
-        	}
-        	});
-        	keyPressOne++;
-    });    
-
-// have my image move when i hit the keydown
+// have my image move when i hit the keydown for player two
     var playerTwo = $("html").keydown(function(evt1){
     	if(evt1.which == 81){
-            $("#playerTwo").animate({left: "+=10"},100);    
+            $("#playerTwo").animate({left: "+=40"},100);    
         } 
-
-    // Attempt to delare a winner on keypress
- //        $(playerTwo).on("keypress",function(){
- //        	if(keyPressTwo === 100){
- //        		alert('PLAYER TWO WON!');
- //        		}
- //        	});
- //        	keyPressTwo++;
+// declare winner by setting a position and alert if player 2 won
+        if($("#playerTwo").position().left > 1100){
+            alert("Player Two Winner");
+        }
 	});
+    
+// set button to reload page
+    $('#restartButton').click(function() {
+    location.reload();
+    });
 
 });
