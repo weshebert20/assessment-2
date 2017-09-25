@@ -7,6 +7,7 @@ $( document).ready(function() {
         } 
 // declare winner by setting a position and set player 1 won
         if($("#playerOne").position().left > 1100){
+            // alert player so game freezes
             alert("Player One Won");
             $(".winnerPlacement").html("Player One Wins");
         }
@@ -19,6 +20,7 @@ $( document).ready(function() {
         } 
 // declare winner by setting a position and alert if player 2 won
         if($("#playerTwo").position().left > 1100){
+            // alert player so game freezes
             alert("Player Two Won");
             $(".winnerPlacement").html("Player Two Wins");
         }
