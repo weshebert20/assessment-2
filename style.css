@@ -76,33 +76,32 @@ h2 {
 	margin-left: 20px;
 }
 
-#playerTwo{
-	width: 170px;
-	height:170px;
-	margin-top: 25%;
+#playerTwo {
 	display: inline-block;
-	position: absolute;
+	height:170px;
 	margin-left: 20px;
+	margin-top: 25%;
+	width: 170px;
 }
 
 /*putting directions next to the game name*/
 .playOne {
 	color: white;
 	display: inline-block;
-	margin-left: 3%;
 	font-style: italic;
+	margin-left: 3%;
 }
 
 .playTwo {
 	color: white;
 	display: inline-block;
-	margin-left: 3%;
 	font-style: italic;
+	margin-left: 3%;
 }
 
 .winnerPlacement {
-	font-style: italic;
 	color: white;
+	font-style: italic;
 	font-size: 30px;
 	text-align: center;
 }
